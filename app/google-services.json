@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489353808012",
+    "project_id": "deltahackathon-b3b3f",
+    "storage_bucket": "deltahackathon-b3b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489353808012:android:5ce31c34af06d2af0b13a9",
+        "android_client_info": {
+          "package_name": "com.example.d_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489353808012-lh7p2bsi1ekuj9td99giu742qa6uoksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRM8sDCGPYB4OXEYbfjSiWEYtmcfX3CGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489353808012-lh7p2bsi1ekuj9td99giu742qa6uoksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
